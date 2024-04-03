@@ -1,6 +1,14 @@
-## React Native Stripe
+# Installation
+
+```
+npm install
+```
+
+## React Native Stripe Integration Example
 
 This is an example React Native app using Stripe as a payment provider. The project is using the official Stripe pod by implementing Native Modules.
+
+
 
 ## Before running
 
